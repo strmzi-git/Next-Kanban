@@ -1,0 +1,172 @@
+[
+  {
+    "color": "bg-red-300",
+    "phase": ": Planning and Requirements Gathering",
+    "tasks": [
+      {
+        "task": ": Define project scope and objectives",
+        "subtasks": [
+          ": Identify key features and functionalities needed for the social networking app",
+          ": Determine target platforms (iOS, Android) and devices"
+        ]
+      },
+      {
+        "task": ": Conduct market research and competitive analysis",
+        "subtasks": [
+          ": Analyze existing social networking apps to understand user expectations and trends",
+          ": Identify unique selling points and differentiating factors for the new app"
+        ]
+      },
+      {
+        "task": ": Identify technical requirements and constraints",
+        "subtasks": [
+          ": Determine necessary programming languages and frameworks",
+          ": Define compatibility and performance requirements for different platforms and devices"
+        ]
+      }
+    ]
+  },
+  {
+    "color": "bg-yellow-300",
+    "phase": ": Design and Prototyping",
+    "tasks": [
+      {
+        "task": ": Create project plan and timeline",
+        "subtasks": [
+          ": Break down project into phases, tasks, and subtasks",
+          ": Estimate timeframes and allocate resources"
+        ]
+      },
+      {
+        "task": ": Create wireframes and mockups",
+        "subtasks": [
+          ": Design app layout and user interface",
+          ": Incorporate key features and functionalities"
+        ]
+      },
+      {
+        "task": ": Develop visual design elements",
+        "subtasks": [
+          ": Design app logo and branding",
+          ": Create color scheme and typography"
+        ]
+      },
+      {
+        "task": ": Build interactive prototypes",
+        "subtasks": [
+          ": Create interactive screens with navigation",
+          ": Incorporate basic functionality for user authentication"
+        ]
+      }
+    ]
+  },
+  {
+    "color": "bg-purple-300",
+    "phase": ": Development",
+    "tasks": [
+      {
+        "task": ": Conduct user testing and feedback",
+        "subtasks": [
+          ": Recruit a group of representative users",
+          ": Collect feedback on usability and user experience"
+        ]
+      },
+      {
+        "task": ": Set up development environment",
+        "subtasks": [
+          ": Install necessary software and development tools",
+          ": Configure project repositories and version control"
+        ]
+      },
+      {
+        "task": ": Develop user authentication functionality",
+        "subtasks": [
+          ": Implement login and registration screens",
+          ": Integrate authentication with backend server"
+        ]
+      },
+      {
+        "task": ": Implement posting and sharing updates",
+        "subtasks": [
+          ": Develop interface for creating and editing posts",
+          ": Enable sharing posts with friends or publicly"
+        ]
+      },
+      {
+        "task": ": Enable commenting on posts",
+        "subtasks": [
+          ": Implement interface for adding comments",
+          ": Enable threaded discussions"
+        ]
+      }
+    ]
+  },
+  {
+    "color": "bg-green-300",
+    "phase": ": Testing and Deployment",
+    "tasks": [
+      {
+        "task": ": Implement friend requests and messaging",
+        "subtasks": [
+          ": Develop friend request functionality",
+          ": Create messaging interface for private conversations"
+        ]
+      },
+      {
+        "task": ": Conduct functional testing",
+        "subtasks": [
+          ": Test each feature for correctness and expected behavior",
+          ": Identify and fix any bugs or issues"
+        ]
+      },
+      {
+        "task": ": Perform compatibility testing",
+        "subtasks": [
+          ": Test the app on different platforms and devices",
+          ": Ensure app functions properly across different screen sizes"
+        ]
+      },
+      {
+        "task": ": Conduct usability testing",
+        "subtasks": [
+          ": Gather feedback from users on app usability",
+          ": Make any necessary improvements to enhance user experience"
+        ]
+      }
+    ]
+  },
+  {
+    "color": "bg-blue-300",
+    "phase": ": Post-launch Support and Maintenance",
+    "tasks": [
+      {
+        "task": ": Prepare for app store submission and deployment",
+        "subtasks": [
+          ": Package the app for distribution",
+          ": Prepare necessary documentation and assets"
+        ]
+      },
+      {
+        "task": ": Monitor app performance and user feedback",
+        "subtasks": [
+          ": Analyze app usage and performance metrics",
+          ": Address any reported issues or improvements"
+        ]
+      },
+      {
+        "task": ": Plan and implement app updates and enhancements",
+        "subtasks": [
+          ": Collect user feedback and prioritize enhancements",
+          ": Develop and release updates based on user needs"
+        ]
+      },
+      {
+        "task": ": Provide ongoing technical support",
+        "subtasks": [
+          ": Respond to user inquiries and troubleshoot issues",
+          ": Ensure app remains compatible with new platform updates and devices"
+        ]
+      }
+    ]
+  }
+]
