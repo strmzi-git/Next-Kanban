@@ -1,9 +1,10 @@
 import ModalHeader from "./ModalHeader";
-import SocialLogin from "./SocialLogin";
 
-interface ModalProps {}
+interface ModalProps {
+  body: React.ReactElement;
+}
 
-const Modal = function () {
+const Modal = function ({ body }: ModalProps) {
   return (
     <div className="">
       {/* BACKGROUND */}
@@ -14,7 +15,7 @@ const Modal = function () {
           title="Welcome to KanbanAi"
           subtitle="To get started, sign in!"
         />
-        <SocialLogin />
+        {body}
       </div>
     </div>
   );

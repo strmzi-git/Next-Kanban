@@ -1,0 +1,24 @@
+<svg width="47" height="52" viewBox="0 0 47 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="47" height="52" fill="#C5C5C5"/>
+<g id="Desktop - 3" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="1024" transform="translate(-23 -21)" fill="white"/>
+<g id="Rectangle 11">
+<mask id="path-1-inside-1_0_1" fill="white">
+<path d="M-23 -21H295V1003H-23V-21Z"/>
+</mask>
+<path d="M-23 -21H295V1003H-23V-21Z" fill="white"/>
+<path d="M294 -21V1003H296V-21H294Z" fill="black" fill-opacity="0.5" mask="url(#path-1-inside-1_0_1)"/>
+</g>
+<g id="&#240;&#159;&#166;&#134; icon &#34;user&#34;">
+<g id="Group">
+<path id="Vector" d="M23.0572 25.3659C30.0617 25.3659 35.7401 19.6875 35.7401 12.6829C35.7401 5.67835 30.0617 0 23.0572 0C16.0526 0 10.3743 5.67835 10.3743 12.6829C10.3743 19.6875 16.0526 25.3659 23.0572 25.3659Z" fill="#7B7B7B"/>
+<path id="Vector_2" d="M23.0577 31.7073C10.3493 31.7073 0 40.2302 0 50.7317C0 51.4419 0.558049 52 1.26829 52H44.8469C45.5572 52 46.1152 51.4419 46.1152 50.7317C46.1152 40.2302 35.766 31.7073 23.0577 31.7073Z" fill="#7B7B7B"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="1024" fill="white" transform="translate(-23 -21)"/>
+</clipPath>
+</defs>
+</svg>
